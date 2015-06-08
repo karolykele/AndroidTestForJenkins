@@ -6,8 +6,6 @@ import android.view.View;
 import android.widget.TextView;
 
 public class MainActivity extends FragmentActivity {
-	
-	private static Bundle bundle;
 
   @Override
   protected void onCreate(Bundle savedInstanceState) {
