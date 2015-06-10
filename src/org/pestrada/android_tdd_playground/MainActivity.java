@@ -7,7 +7,7 @@ import android.widget.TextView;
 
 public class MainActivity extends FragmentActivity {
 	
-	privatr static Bundle bundle;
+	private static Bundle bundle;
 
   @Override
   protected void onCreate(Bundle savedInstanceState) {
